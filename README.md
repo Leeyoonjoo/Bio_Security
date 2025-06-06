@@ -1,5 +1,3 @@
 # Bio_Security
-지문인식 시스템 만들기
-EASY 버전- hw5_fingerprint.ipynb
-/ Hard 버전 - hw5_fingerprint_hard.ipynb
+지문인식 시스템 만들기-깃허브 저장용량이 부족해서 함수별로 저장해놨습니다.
 
